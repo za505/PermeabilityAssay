@@ -20,3 +20,7 @@ Measure the fluorescence intensity from the aligned GFP image stack by running D
 Based on your fluorophore--mNeonGreen or FlAsH--use the appropriate DataNormalization.mat script to correct for photobleaching and normalize fluorescence. 
 
 After fluorescence normalization, the '_nct.mat' output file from a set of experiments can be compiled and stored as a separate .mat file for easier data analysis.
+
+FinalPlots.m is the code used the generate the plots shown in Fig 3A-C of the paper, "Wall teichoic acids regulate peptidoglycan synthesis by paving cell wall nanostructure"
+
+
